@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}#active{border-bottom:2px solid #ff0;color:#ff0;transition:.5s}#sidebarbg{animation:sidebar .5s ease-out 0s 1 forwards}@keyframes sidebar{0%{height:0}to{height:100vh}}@media (min-width:200px) and (max-width:640px){#homeMainDiv{height:900px}}
+/*# sourceMappingURL=main.22ee50f3.css.map*/
